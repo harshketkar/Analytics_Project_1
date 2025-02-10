@@ -1,1 +1,1 @@
-# Analytics_Project_1
+# SQL_Analytics_Project
